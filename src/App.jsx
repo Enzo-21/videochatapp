@@ -21,8 +21,8 @@ const callId = 'oiJzHcC4y4Uy'; // the call id can be found in the "Credentials" 
 
 const user = {
   id: userId,
-  name: 'Oliver',
-  image: 'https://getstream.io/random_svg/?id=oliver&name=Oliver',
+  name: 'Pony',
+  image: 'https://i.pinimg.com/736x/25/3a/e9/253ae999cdcdac72fb4006209242f40c.jpg',
 };
 
 const client = new StreamVideoClient({ apiKey, user, token });
